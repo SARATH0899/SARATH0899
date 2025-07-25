@@ -1,9 +1,7 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/SARATH0899/SARATH0899/assets/117584193/6cdf00cb-768e-4f65-9c08-7ea1d8844744)
-
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/ea51b7af-791c-4b3b-9f2f-8975b607e851" />
 
 # 💫 About Me:
-I am a motivated and dedicated professional with a robust technical background in web development and software engineering. <br>My expertise spans across React, Node.js, MongoDB, PHP, and associated technologies, allowing me to deliver high-quality solutions. <br>Recently, I have been delving into TensorFlow and exploring its diverse applications. <br>With a proven track record of building resilient web applications, I am committed to continuous learning to enrich my skill set and stay abreast of emerging technologies.
-
+ Enthusiastic and detail-oriented entry-level IT professional with practical experience in web development, programming, and cybersecurity. Strong background in full-stack development, cloud technologies, and      troubleshooting. Quick learner, adaptable team player, and passionate about solving real-world problems with innovative technology solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_r_a_t_h_1999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarath-m-r-975233254) 
@@ -20,5 +18,3 @@ I am a motivated and dedicated professional with a robust technical background i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SARATH0899&icon=8&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
